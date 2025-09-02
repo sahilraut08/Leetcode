@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/sahilraut08/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0816-design-hashset](https://github.com/sahilraut08/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sahilraut08/Leetcode/tree/master/0817-design-hashmap) |
+| [0876-hand-of-straights](https://github.com/sahilraut08/Leetcode/tree/master/0876-hand-of-straights) |
 | [0912-random-pick-with-weight](https://github.com/sahilraut08/Leetcode/tree/master/0912-random-pick-with-weight) |
 ## Hash Table
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/sahilraut08/Leetcode/tree/master/0807-custom-sort-string) |
 | [0816-design-hashset](https://github.com/sahilraut08/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sahilraut08/Leetcode/tree/master/0817-design-hashmap) |
+| [0876-hand-of-straights](https://github.com/sahilraut08/Leetcode/tree/master/0876-hand-of-straights) |
 ## Linked List
 |  |
 | ------- |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sahilraut08/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/sahilraut08/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/sahilraut08/Leetcode/tree/master/0768-partition-labels) |
+| [0876-hand-of-straights](https://github.com/sahilraut08/Leetcode/tree/master/0876-hand-of-straights) |
 ## Trie
 |  |
 | ------- |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/sahilraut08/Leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/sahilraut08/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0807-custom-sort-string](https://github.com/sahilraut08/Leetcode/tree/master/0807-custom-sort-string) |
+| [0876-hand-of-straights](https://github.com/sahilraut08/Leetcode/tree/master/0876-hand-of-straights) |
 ## Backtracking
 |  |
 | ------- |
