@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/sahilraut08/Leetcode/tree/master/0690-employee-importance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sahilraut08/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/sahilraut08/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/sahilraut08/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/sahilraut08/Leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/sahilraut08/Leetcode/tree/master/0695-max-area-of-island) |
 | [0975-range-sum-of-bst](https://github.com/sahilraut08/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/sahilraut08/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sahilraut08/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sahilraut08/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/sahilraut08/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/sahilraut08/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
