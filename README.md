@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sahilraut08/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sahilraut08/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sahilraut08/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/sahilraut08/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/sahilraut08/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sahilraut08/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sahilraut08/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/sahilraut08/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
 | ------- |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sahilraut08/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sahilraut08/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sahilraut08/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/sahilraut08/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sahilraut08/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/sahilraut08/Leetcode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sahilraut08/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/sahilraut08/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Union Find
 |  |
 | ------- |
