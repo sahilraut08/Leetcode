@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/sahilraut08/Leetcode/tree/master/0690-employee-importance) |
 | [0740-delete-and-earn](https://github.com/sahilraut08/Leetcode/tree/master/0740-delete-and-earn) |
 | [0768-partition-labels](https://github.com/sahilraut08/Leetcode/tree/master/0768-partition-labels) |
+| [0807-custom-sort-string](https://github.com/sahilraut08/Leetcode/tree/master/0807-custom-sort-string) |
 | [0816-design-hashset](https://github.com/sahilraut08/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sahilraut08/Leetcode/tree/master/0817-design-hashmap) |
 ## Linked List
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/sahilraut08/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/sahilraut08/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/sahilraut08/Leetcode/tree/master/0768-partition-labels) |
+| [0807-custom-sort-string](https://github.com/sahilraut08/Leetcode/tree/master/0807-custom-sort-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sahilraut08/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/sahilraut08/Leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/sahilraut08/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0807-custom-sort-string](https://github.com/sahilraut08/Leetcode/tree/master/0807-custom-sort-string) |
 ## Backtracking
 |  |
 | ------- |
