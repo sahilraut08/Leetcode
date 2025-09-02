@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/sahilraut08/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/sahilraut08/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1833-find-the-highest-altitude](https://github.com/sahilraut08/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1917-maximum-average-pass-ratio](https://github.com/sahilraut08/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 ## Hash Table
 |  |
 | ------- |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sahilraut08/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/sahilraut08/Leetcode/tree/master/1304-longest-happy-string) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/sahilraut08/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1917-maximum-average-pass-ratio](https://github.com/sahilraut08/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 ## Trie
 |  |
 | ------- |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/sahilraut08/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1304-longest-happy-string](https://github.com/sahilraut08/Leetcode/tree/master/1304-longest-happy-string) |
 | [1539-diagonal-traverse-ii](https://github.com/sahilraut08/Leetcode/tree/master/1539-diagonal-traverse-ii) |
+| [1917-maximum-average-pass-ratio](https://github.com/sahilraut08/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 ## Merge Sort
 |  |
 | ------- |
