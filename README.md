@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/sahilraut08/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/sahilraut08/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sahilraut08/Leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/sahilraut08/Leetcode/tree/master/0076-minimum-window-substring) |
 ## Linked List
 |  |
 | ------- |
@@ -95,10 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sahilraut08/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sahilraut08/Leetcode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/sahilraut08/Leetcode/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/sahilraut08/Leetcode/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahilraut08/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/sahilraut08/Leetcode/tree/master/0076-minimum-window-substring) |
 ## Binary Search
 |  |
 | ------- |
