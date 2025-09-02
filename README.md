@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sahilraut08/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/sahilraut08/Leetcode/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/sahilraut08/Leetcode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/sahilraut08/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sahilraut08/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/sahilraut08/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sahilraut08/Leetcode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/sahilraut08/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Greedy
 |  |
 | ------- |
