@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/sahilraut08/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/sahilraut08/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sahilraut08/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0410-split-array-largest-sum](https://github.com/sahilraut08/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sahilraut08/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sahilraut08/Leetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/sahilraut08/Leetcode/tree/master/0275-h-index-ii) |
+| [0410-split-array-largest-sum](https://github.com/sahilraut08/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sahilraut08/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/sahilraut08/Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/sahilraut08/Leetcode/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/sahilraut08/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/sahilraut08/Leetcode/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/sahilraut08/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sahilraut08/Leetcode/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/sahilraut08/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Trie
 |  |
 | ------- |
@@ -529,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sahilraut08/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sahilraut08/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/sahilraut08/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/sahilraut08/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Quickselect
 |  |
 | ------- |
