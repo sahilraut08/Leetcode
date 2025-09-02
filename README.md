@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sahilraut08/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sahilraut08/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sahilraut08/Leetcode/tree/master/0202-happy-number) |
+| [0227-basic-calculator-ii](https://github.com/sahilraut08/Leetcode/tree/master/0227-basic-calculator-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/sahilraut08/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sahilraut08/Leetcode/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/sahilraut08/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0227-basic-calculator-ii](https://github.com/sahilraut08/Leetcode/tree/master/0227-basic-calculator-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sahilraut08/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/sahilraut08/Leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/sahilraut08/Leetcode/tree/master/0155-min-stack) |
+| [0227-basic-calculator-ii](https://github.com/sahilraut08/Leetcode/tree/master/0227-basic-calculator-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
