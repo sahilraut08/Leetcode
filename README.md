@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1224-minimum-falling-path-sum-ii](https://github.com/sahilraut08/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/sahilraut08/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1539-diagonal-traverse-ii](https://github.com/sahilraut08/Leetcode/tree/master/1539-diagonal-traverse-ii) |
+| [1646-kth-missing-positive-number](https://github.com/sahilraut08/Leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/sahilraut08/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sahilraut08/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/sahilraut08/Leetcode/tree/master/1185-find-in-mountain-array) |
+| [1646-kth-missing-positive-number](https://github.com/sahilraut08/Leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
 | ------- |
