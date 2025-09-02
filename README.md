@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sahilraut08/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sahilraut08/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sahilraut08/Leetcode/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/sahilraut08/Leetcode/tree/master/0063-unique-paths-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sahilraut08/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sahilraut08/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sahilraut08/Leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/sahilraut08/Leetcode/tree/master/0063-unique-paths-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sahilraut08/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sahilraut08/Leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/sahilraut08/Leetcode/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/sahilraut08/Leetcode/tree/master/0063-unique-paths-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
