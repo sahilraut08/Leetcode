@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/sahilraut08/Leetcode/tree/master/0817-design-hashmap) |
 | [0876-hand-of-straights](https://github.com/sahilraut08/Leetcode/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sahilraut08/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sahilraut08/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/sahilraut08/Leetcode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/sahilraut08/Leetcode/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/sahilraut08/Leetcode/tree/master/0917-boats-to-save-people) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sahilraut08/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/sahilraut08/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/sahilraut08/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/sahilraut08/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sahilraut08/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -576,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/sahilraut08/Leetcode/tree/master/0695-max-area-of-island) |
 | [0975-range-sum-of-bst](https://github.com/sahilraut08/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/sahilraut08/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sahilraut08/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -609,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/sahilraut08/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/sahilraut08/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/sahilraut08/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sahilraut08/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -640,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sahilraut08/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0690-employee-importance](https://github.com/sahilraut08/Leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/sahilraut08/Leetcode/tree/master/0695-max-area-of-island) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sahilraut08/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Union Find
 |  |
 | ------- |
