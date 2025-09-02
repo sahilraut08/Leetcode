@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sahilraut08/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/sahilraut08/Leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sahilraut08/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/sahilraut08/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -236,4 +237,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/sahilraut08/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sahilraut08/Leetcode/tree/master/0090-subsets-ii) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sahilraut08/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sahilraut08/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sahilraut08/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
