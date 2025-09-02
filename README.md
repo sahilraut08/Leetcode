@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/sahilraut08/Leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/sahilraut08/Leetcode/tree/master/0275-h-index-ii) |
 | [0289-game-of-life](https://github.com/sahilraut08/Leetcode/tree/master/0289-game-of-life) |
+| [0303-range-sum-query-immutable](https://github.com/sahilraut08/Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Hash Table
 |  |
 | ------- |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sahilraut08/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/sahilraut08/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sahilraut08/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/sahilraut08/Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sahilraut08/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sahilraut08/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/sahilraut08/Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Quickselect
 |  |
 | ------- |
