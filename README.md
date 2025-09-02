@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sahilraut08/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/sahilraut08/Leetcode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/sahilraut08/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/sahilraut08/Leetcode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sahilraut08/Leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/sahilraut08/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/sahilraut08/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/sahilraut08/Leetcode/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/sahilraut08/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sahilraut08/Leetcode/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/sahilraut08/Leetcode/tree/master/0231-power-of-two) |
 ## Tree
 |  |
 | ------- |
