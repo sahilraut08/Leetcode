@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/sahilraut08/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/sahilraut08/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sahilraut08/Leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/sahilraut08/Leetcode/tree/master/0205-isomorphic-strings) |
 ## Linked List
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sahilraut08/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/sahilraut08/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sahilraut08/Leetcode/tree/master/0139-word-break) |
+| [0205-isomorphic-strings](https://github.com/sahilraut08/Leetcode/tree/master/0205-isomorphic-strings) |
 ## Sliding Window
 |  |
 | ------- |
