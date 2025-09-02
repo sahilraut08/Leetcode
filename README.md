@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/sahilraut08/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/sahilraut08/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0690-employee-importance](https://github.com/sahilraut08/Leetcode/tree/master/0690-employee-importance) |
+| [0695-max-area-of-island](https://github.com/sahilraut08/Leetcode/tree/master/0695-max-area-of-island) |
 | [0912-random-pick-with-weight](https://github.com/sahilraut08/Leetcode/tree/master/0912-random-pick-with-weight) |
 ## Hash Table
 |  |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/sahilraut08/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/sahilraut08/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/sahilraut08/Leetcode/tree/master/0529-minesweeper) |
+| [0695-max-area-of-island](https://github.com/sahilraut08/Leetcode/tree/master/0695-max-area-of-island) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/sahilraut08/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sahilraut08/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0690-employee-importance](https://github.com/sahilraut08/Leetcode/tree/master/0690-employee-importance) |
+| [0695-max-area-of-island](https://github.com/sahilraut08/Leetcode/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -576,11 +579,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/sahilraut08/Leetcode/tree/master/0529-minesweeper) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sahilraut08/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0690-employee-importance](https://github.com/sahilraut08/Leetcode/tree/master/0690-employee-importance) |
+| [0695-max-area-of-island](https://github.com/sahilraut08/Leetcode/tree/master/0695-max-area-of-island) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sahilraut08/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/sahilraut08/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/sahilraut08/Leetcode/tree/master/0695-max-area-of-island) |
 ## Design
 |  |
 | ------- |
