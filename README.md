@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/sahilraut08/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/sahilraut08/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sahilraut08/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1072-next-greater-node-in-linked-list](https://github.com/sahilraut08/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sahilraut08/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0816-design-hashset](https://github.com/sahilraut08/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sahilraut08/Leetcode/tree/master/0817-design-hashmap) |
+| [1072-next-greater-node-in-linked-list](https://github.com/sahilraut08/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/sahilraut08/Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/sahilraut08/Leetcode/tree/master/0883-car-fleet) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sahilraut08/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1072-next-greater-node-in-linked-list](https://github.com/sahilraut08/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sahilraut08/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sahilraut08/Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/sahilraut08/Leetcode/tree/master/0883-car-fleet) |
+| [1072-next-greater-node-in-linked-list](https://github.com/sahilraut08/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 ## Simulation
 |  |
 | ------- |
