@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/sahilraut08/Leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/sahilraut08/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sahilraut08/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0398-random-pick-index](https://github.com/sahilraut08/Leetcode/tree/master/0398-random-pick-index) |
 ## Linked List
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/sahilraut08/Leetcode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/sahilraut08/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sahilraut08/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0398-random-pick-index](https://github.com/sahilraut08/Leetcode/tree/master/0398-random-pick-index) |
 ## Recursion
 |  |
 | ------- |
@@ -546,4 +548,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/sahilraut08/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0398-random-pick-index](https://github.com/sahilraut08/Leetcode/tree/master/0398-random-pick-index) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/sahilraut08/Leetcode/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
