@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-find-in-mountain-array](https://github.com/sahilraut08/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/sahilraut08/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/sahilraut08/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1539-diagonal-traverse-ii](https://github.com/sahilraut08/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/sahilraut08/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sahilraut08/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/sahilraut08/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1539-diagonal-traverse-ii](https://github.com/sahilraut08/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sahilraut08/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sahilraut08/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1304-longest-happy-string](https://github.com/sahilraut08/Leetcode/tree/master/1304-longest-happy-string) |
+| [1539-diagonal-traverse-ii](https://github.com/sahilraut08/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 ## Merge Sort
 |  |
 | ------- |
