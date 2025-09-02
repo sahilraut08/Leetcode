@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sahilraut08/Leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/sahilraut08/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/sahilraut08/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/sahilraut08/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sahilraut08/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/sahilraut08/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sahilraut08/Leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/sahilraut08/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sahilraut08/Leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahilraut08/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/sahilraut08/Leetcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/sahilraut08/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sahilraut08/Leetcode/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/sahilraut08/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/sahilraut08/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/sahilraut08/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
