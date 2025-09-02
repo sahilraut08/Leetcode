@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sahilraut08/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/sahilraut08/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sahilraut08/Leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/sahilraut08/Leetcode/tree/master/0043-multiply-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sahilraut08/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahilraut08/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/sahilraut08/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/sahilraut08/Leetcode/tree/master/0043-multiply-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sahilraut08/Leetcode/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/sahilraut08/Leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
