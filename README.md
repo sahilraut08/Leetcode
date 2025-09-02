@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/sahilraut08/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0912-random-pick-with-weight](https://github.com/sahilraut08/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [2383-add-two-integers](https://github.com/sahilraut08/Leetcode/tree/master/2383-add-two-integers) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/sahilraut08/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Recursion
 |  |
 | ------- |
