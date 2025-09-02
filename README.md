@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sahilraut08/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/sahilraut08/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sahilraut08/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/sahilraut08/Leetcode/tree/master/0078-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/sahilraut08/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/sahilraut08/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/sahilraut08/Leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/sahilraut08/Leetcode/tree/master/0078-subsets) |
 ## Stack
 |  |
 | ------- |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sahilraut08/Leetcode/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sahilraut08/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
