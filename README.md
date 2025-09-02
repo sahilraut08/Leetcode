@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sahilraut08/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/sahilraut08/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/sahilraut08/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/sahilraut08/Leetcode/tree/master/0518-coin-change-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/sahilraut08/Leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/sahilraut08/Leetcode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/sahilraut08/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0518-coin-change-ii](https://github.com/sahilraut08/Leetcode/tree/master/0518-coin-change-ii) |
 ## Greedy
 |  |
 | ------- |
