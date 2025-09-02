@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/sahilraut08/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0967-minimum-falling-path-sum](https://github.com/sahilraut08/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/sahilraut08/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1036-rotting-oranges](https://github.com/sahilraut08/Leetcode/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/sahilraut08/Leetcode/tree/master/0529-minesweeper) |
 | [0695-max-area-of-island](https://github.com/sahilraut08/Leetcode/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/sahilraut08/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/sahilraut08/Leetcode/tree/master/1036-rotting-oranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/sahilraut08/Leetcode/tree/master/0695-max-area-of-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sahilraut08/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/sahilraut08/Leetcode/tree/master/1035-cousins-in-binary-tree) |
+| [1036-rotting-oranges](https://github.com/sahilraut08/Leetcode/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
