@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/sahilraut08/Leetcode/tree/master/0525-contiguous-array) |
 | [0529-minesweeper](https://github.com/sahilraut08/Leetcode/tree/master/0529-minesweeper) |
 | [0560-subarray-sum-equals-k](https://github.com/sahilraut08/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0636-exclusive-time-of-functions](https://github.com/sahilraut08/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0912-random-pick-with-weight](https://github.com/sahilraut08/Leetcode/tree/master/0912-random-pick-with-weight) |
 ## Hash Table
 |  |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/sahilraut08/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/sahilraut08/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sahilraut08/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0636-exclusive-time-of-functions](https://github.com/sahilraut08/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
