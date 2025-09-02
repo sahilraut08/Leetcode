@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/sahilraut08/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2058-concatenation-of-array](https://github.com/sahilraut08/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/sahilraut08/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sahilraut08/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sahilraut08/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/sahilraut08/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/sahilraut08/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sahilraut08/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/sahilraut08/Leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sahilraut08/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/sahilraut08/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sahilraut08/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
