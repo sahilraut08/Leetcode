@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sahilraut08/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sahilraut08/Leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/sahilraut08/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/sahilraut08/Leetcode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/sahilraut08/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/sahilraut08/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/sahilraut08/Leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/sahilraut08/Leetcode/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
