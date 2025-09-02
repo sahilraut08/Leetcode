@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/sahilraut08/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1833-find-the-highest-altitude](https://github.com/sahilraut08/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1917-maximum-average-pass-ratio](https://github.com/sahilraut08/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [2058-concatenation-of-array](https://github.com/sahilraut08/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/sahilraut08/Leetcode/tree/master/0289-game-of-life) |
 | [0415-add-strings](https://github.com/sahilraut08/Leetcode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/sahilraut08/Leetcode/tree/master/0498-diagonal-traverse) |
+| [2058-concatenation-of-array](https://github.com/sahilraut08/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Combinatorics
 |  |
 | ------- |
