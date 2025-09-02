@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/sahilraut08/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sahilraut08/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/sahilraut08/Leetcode/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/sahilraut08/Leetcode/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/sahilraut08/Leetcode/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sahilraut08/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/sahilraut08/Leetcode/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/sahilraut08/Leetcode/tree/master/0322-coin-change) |
 ## Greedy
 |  |
 | ------- |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sahilraut08/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/sahilraut08/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sahilraut08/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/sahilraut08/Leetcode/tree/master/0322-coin-change) |
 ## Union Find
 |  |
 | ------- |
