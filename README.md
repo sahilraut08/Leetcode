@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/sahilraut08/Leetcode/tree/master/0817-design-hashmap) |
 | [0876-hand-of-straights](https://github.com/sahilraut08/Leetcode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/sahilraut08/Leetcode/tree/master/0883-car-fleet) |
+| [0890-lemonade-change](https://github.com/sahilraut08/Leetcode/tree/master/0890-lemonade-change) |
 | [0912-random-pick-with-weight](https://github.com/sahilraut08/Leetcode/tree/master/0912-random-pick-with-weight) |
 ## Hash Table
 |  |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/sahilraut08/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/sahilraut08/Leetcode/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/sahilraut08/Leetcode/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/sahilraut08/Leetcode/tree/master/0890-lemonade-change) |
 ## Trie
 |  |
 | ------- |
