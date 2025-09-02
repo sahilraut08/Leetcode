@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/sahilraut08/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sahilraut08/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1072-next-greater-node-in-linked-list](https://github.com/sahilraut08/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/sahilraut08/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/sahilraut08/Leetcode/tree/master/0695-max-area-of-island) |
 | [0967-minimum-falling-path-sum](https://github.com/sahilraut08/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/sahilraut08/Leetcode/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/sahilraut08/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sahilraut08/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/sahilraut08/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/sahilraut08/Leetcode/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/sahilraut08/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Union Find
 |  |
 | ------- |
