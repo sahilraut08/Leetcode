@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/sahilraut08/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sahilraut08/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0398-random-pick-index](https://github.com/sahilraut08/Leetcode/tree/master/0398-random-pick-index) |
+| [0415-add-strings](https://github.com/sahilraut08/Leetcode/tree/master/0415-add-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sahilraut08/Leetcode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/sahilraut08/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sahilraut08/Leetcode/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/sahilraut08/Leetcode/tree/master/0415-add-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/sahilraut08/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/sahilraut08/Leetcode/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/sahilraut08/Leetcode/tree/master/0289-game-of-life) |
+| [0415-add-strings](https://github.com/sahilraut08/Leetcode/tree/master/0415-add-strings) |
 ## Combinatorics
 |  |
 | ------- |
