@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sahilraut08/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0690-employee-importance](https://github.com/sahilraut08/Leetcode/tree/master/0690-employee-importance) |
 | [0740-delete-and-earn](https://github.com/sahilraut08/Leetcode/tree/master/0740-delete-and-earn) |
+| [0768-partition-labels](https://github.com/sahilraut08/Leetcode/tree/master/0768-partition-labels) |
 | [0816-design-hashset](https://github.com/sahilraut08/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sahilraut08/Leetcode/tree/master/0817-design-hashmap) |
 ## Linked List
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/sahilraut08/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sahilraut08/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/sahilraut08/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/sahilraut08/Leetcode/tree/master/0768-partition-labels) |
 ## Sliding Window
 |  |
 | ------- |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/sahilraut08/Leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sahilraut08/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/sahilraut08/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/sahilraut08/Leetcode/tree/master/0768-partition-labels) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/sahilraut08/Leetcode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/sahilraut08/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/sahilraut08/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/sahilraut08/Leetcode/tree/master/0768-partition-labels) |
 ## Trie
 |  |
 | ------- |
