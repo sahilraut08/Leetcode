@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/sahilraut08/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sahilraut08/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/sahilraut08/Leetcode/tree/master/3321-type-of-triangle) |
+| [3582-find-indices-of-stable-mountains](https://github.com/sahilraut08/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Hash Table
 |  |
 | ------- |
