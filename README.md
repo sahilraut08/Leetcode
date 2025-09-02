@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sahilraut08/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/sahilraut08/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sahilraut08/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/sahilraut08/Leetcode/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sahilraut08/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sahilraut08/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sahilraut08/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/sahilraut08/Leetcode/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sahilraut08/Leetcode/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sahilraut08/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
