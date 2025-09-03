@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sahilraut08/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2479-meeting-rooms-iii](https://github.com/sahilraut08/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sahilraut08/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sahilraut08/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sahilraut08/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/sahilraut08/Leetcode/tree/master/3321-type-of-triangle) |
 | [3582-find-indices-of-stable-mountains](https://github.com/sahilraut08/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/sahilraut08/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0912-random-pick-with-weight](https://github.com/sahilraut08/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [2383-add-two-integers](https://github.com/sahilraut08/Leetcode/tree/master/2383-add-two-integers) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sahilraut08/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sahilraut08/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/sahilraut08/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/sahilraut08/Leetcode/tree/master/3321-type-of-triangle) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/sahilraut08/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1539-diagonal-traverse-ii](https://github.com/sahilraut08/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [2479-meeting-rooms-iii](https://github.com/sahilraut08/Leetcode/tree/master/2479-meeting-rooms-iii) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sahilraut08/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sahilraut08/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/sahilraut08/Leetcode/tree/master/3321-type-of-triangle) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sahilraut08/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -827,9 +830,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sahilraut08/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sahilraut08/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sahilraut08/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sahilraut08/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
