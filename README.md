@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sahilraut08/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/sahilraut08/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/sahilraut08/Leetcode/tree/master/3321-type-of-triangle) |
+| [3830-find-closest-person](https://github.com/sahilraut08/Leetcode/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
