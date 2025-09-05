@@ -580,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sahilraut08/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sahilraut08/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/sahilraut08/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/sahilraut08/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Tree
 |  |
 | ------- |
@@ -836,6 +837,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/sahilraut08/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sahilraut08/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sahilraut08/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/sahilraut08/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
