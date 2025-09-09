@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/sahilraut08/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/sahilraut08/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/sahilraut08/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/sahilraut08/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Greedy
 |  |
 | ------- |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/sahilraut08/Leetcode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/sahilraut08/Leetcode/tree/master/0498-diagonal-traverse) |
 | [2058-concatenation-of-array](https://github.com/sahilraut08/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/sahilraut08/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/sahilraut08/Leetcode/tree/master/2479-meeting-rooms-iii) |
 ## Combinatorics
 |  |
@@ -795,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sahilraut08/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/sahilraut08/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/sahilraut08/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Monotonic Queue
 |  |
 | ------- |
