@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/sahilraut08/Leetcode/tree/master/1304-longest-happy-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/sahilraut08/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/sahilraut08/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2887-sort-vowels-in-a-string](https://github.com/sahilraut08/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/sahilraut08/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1539-diagonal-traverse-ii](https://github.com/sahilraut08/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [2479-meeting-rooms-iii](https://github.com/sahilraut08/Leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2887-sort-vowels-in-a-string](https://github.com/sahilraut08/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sahilraut08/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sahilraut08/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/sahilraut08/Leetcode/tree/master/3321-type-of-triangle) |
