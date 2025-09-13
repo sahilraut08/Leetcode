@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/sahilraut08/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sahilraut08/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2479-meeting-rooms-iii](https://github.com/sahilraut08/Leetcode/tree/master/2479-meeting-rooms-iii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/sahilraut08/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
 | ------- |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/sahilraut08/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2887-sort-vowels-in-a-string](https://github.com/sahilraut08/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/sahilraut08/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/sahilraut08/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
 | ------- |
@@ -769,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sahilraut08/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sahilraut08/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/sahilraut08/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Graph
 |  |
 | ------- |
