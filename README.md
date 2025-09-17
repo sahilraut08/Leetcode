@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/sahilraut08/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sahilraut08/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sahilraut08/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2429-design-a-food-rating-system](https://github.com/sahilraut08/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/sahilraut08/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sahilraut08/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sahilraut08/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/sahilraut08/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sahilraut08/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sahilraut08/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2429-design-a-food-rating-system](https://github.com/sahilraut08/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/sahilraut08/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sahilraut08/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/sahilraut08/Leetcode/tree/master/1304-longest-happy-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/sahilraut08/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/sahilraut08/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2429-design-a-food-rating-system](https://github.com/sahilraut08/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/sahilraut08/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/sahilraut08/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sahilraut08/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/sahilraut08/Leetcode/tree/master/1304-longest-happy-string) |
 | [1539-diagonal-traverse-ii](https://github.com/sahilraut08/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/sahilraut08/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [2429-design-a-food-rating-system](https://github.com/sahilraut08/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/sahilraut08/Leetcode/tree/master/2479-meeting-rooms-iii) |
 ## Merge Sort
 |  |
@@ -772,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/sahilraut08/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/sahilraut08/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sahilraut08/Leetcode/tree/master/0817-design-hashmap) |
+| [2429-design-a-food-rating-system](https://github.com/sahilraut08/Leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -844,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/sahilraut08/Leetcode/tree/master/0456-132-pattern) |
+| [2429-design-a-food-rating-system](https://github.com/sahilraut08/Leetcode/tree/master/2429-design-a-food-rating-system) |
 ## Hash Function
 |  |
 | ------- |
