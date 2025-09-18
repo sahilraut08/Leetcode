@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sahilraut08/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2429-design-a-food-rating-system](https://github.com/sahilraut08/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/sahilraut08/Leetcode/tree/master/2479-meeting-rooms-iii) |
+| [3678-design-task-manager](https://github.com/sahilraut08/Leetcode/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sahilraut08/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/sahilraut08/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2429-design-a-food-rating-system](https://github.com/sahilraut08/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/sahilraut08/Leetcode/tree/master/2479-meeting-rooms-iii) |
+| [3678-design-task-manager](https://github.com/sahilraut08/Leetcode/tree/master/3678-design-task-manager) |
 ## Merge Sort
 |  |
 | ------- |
@@ -777,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/sahilraut08/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sahilraut08/Leetcode/tree/master/0817-design-hashmap) |
 | [2429-design-a-food-rating-system](https://github.com/sahilraut08/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/sahilraut08/Leetcode/tree/master/3678-design-task-manager) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -850,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/sahilraut08/Leetcode/tree/master/0456-132-pattern) |
 | [2429-design-a-food-rating-system](https://github.com/sahilraut08/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/sahilraut08/Leetcode/tree/master/3678-design-task-manager) |
 ## Hash Function
 |  |
 | ------- |
