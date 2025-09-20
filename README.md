@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/sahilraut08/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sahilraut08/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/sahilraut08/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/sahilraut08/Leetcode/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/sahilraut08/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3678-design-task-manager](https://github.com/sahilraut08/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/sahilraut08/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/sahilraut08/Leetcode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sahilraut08/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-find-in-mountain-array](https://github.com/sahilraut08/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/sahilraut08/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/sahilraut08/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [3827-implement-router](https://github.com/sahilraut08/Leetcode/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -785,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/sahilraut08/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/sahilraut08/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/sahilraut08/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/sahilraut08/Leetcode/tree/master/3827-implement-router) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -831,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/sahilraut08/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/sahilraut08/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sahilraut08/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/sahilraut08/Leetcode/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -859,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/sahilraut08/Leetcode/tree/master/0456-132-pattern) |
 | [2429-design-a-food-rating-system](https://github.com/sahilraut08/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/sahilraut08/Leetcode/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/sahilraut08/Leetcode/tree/master/3827-implement-router) |
 ## Hash Function
 |  |
 | ------- |
