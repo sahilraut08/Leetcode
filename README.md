@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/sahilraut08/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0816-design-hashset](https://github.com/sahilraut08/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sahilraut08/Leetcode/tree/master/0817-design-hashmap) |
+| [0830-largest-triangle-area](https://github.com/sahilraut08/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0876-hand-of-straights](https://github.com/sahilraut08/Leetcode/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/sahilraut08/Leetcode/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/sahilraut08/Leetcode/tree/master/0890-lemonade-change) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/sahilraut08/Leetcode/tree/master/0398-random-pick-index) |
 | [0415-add-strings](https://github.com/sahilraut08/Leetcode/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/sahilraut08/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0830-largest-triangle-area](https://github.com/sahilraut08/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0912-random-pick-with-weight](https://github.com/sahilraut08/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sahilraut08/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/sahilraut08/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -900,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/sahilraut08/Leetcode/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sahilraut08/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sahilraut08/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
