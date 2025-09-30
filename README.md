@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/sahilraut08/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sahilraut08/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sahilraut08/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/sahilraut08/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/sahilraut08/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/sahilraut08/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sahilraut08/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sahilraut08/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/sahilraut08/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sahilraut08/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/sahilraut08/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/sahilraut08/Leetcode/tree/master/2383-add-two-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sahilraut08/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sahilraut08/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -621,12 +623,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/sahilraut08/Leetcode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/sahilraut08/Leetcode/tree/master/0498-diagonal-traverse) |
 | [2058-concatenation-of-array](https://github.com/sahilraut08/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/sahilraut08/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sahilraut08/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/sahilraut08/Leetcode/tree/master/2479-meeting-rooms-iii) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sahilraut08/Leetcode/tree/master/0062-unique-paths) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/sahilraut08/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Memoization
 |  |
 | ------- |
