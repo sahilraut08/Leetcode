@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sahilraut08/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sahilraut08/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sahilraut08/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sahilraut08/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sahilraut08/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sahilraut08/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sahilraut08/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/sahilraut08/Leetcode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/sahilraut08/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/sahilraut08/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/sahilraut08/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/sahilraut08/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/sahilraut08/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/sahilraut08/Leetcode/tree/master/0139-word-break) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/sahilraut08/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/sahilraut08/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/sahilraut08/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sahilraut08/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sahilraut08/Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/sahilraut08/Leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/sahilraut08/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sahilraut08/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/sahilraut08/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/sahilraut08/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/sahilraut08/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/sahilraut08/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sahilraut08/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/sahilraut08/Leetcode/tree/master/0289-game-of-life) |
@@ -688,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sahilraut08/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sahilraut08/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/sahilraut08/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/sahilraut08/Leetcode/tree/master/0099-recover-binary-search-tree) |
