@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/sahilraut08/Leetcode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/sahilraut08/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/sahilraut08/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0777-toeplitz-matrix](https://github.com/sahilraut08/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0816-design-hashset](https://github.com/sahilraut08/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sahilraut08/Leetcode/tree/master/0817-design-hashmap) |
 | [0830-largest-triangle-area](https://github.com/sahilraut08/Leetcode/tree/master/0830-largest-triangle-area) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/sahilraut08/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/sahilraut08/Leetcode/tree/master/0529-minesweeper) |
 | [0695-max-area-of-island](https://github.com/sahilraut08/Leetcode/tree/master/0695-max-area-of-island) |
+| [0777-toeplitz-matrix](https://github.com/sahilraut08/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/sahilraut08/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/sahilraut08/Leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/sahilraut08/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
