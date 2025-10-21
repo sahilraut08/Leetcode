@@ -481,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/sahilraut08/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1121-partition-array-for-maximum-sum](https://github.com/sahilraut08/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/sahilraut08/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sahilraut08/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sahilraut08/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Greedy
 |  |
@@ -890,10 +891,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/sahilraut08/Leetcode/tree/master/0207-course-schedule) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sahilraut08/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sahilraut08/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sahilraut08/Leetcode/tree/master/0207-course-schedule) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sahilraut08/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1000,4 +1003,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sahilraut08/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sahilraut08/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
