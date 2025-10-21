@@ -1,9 +1,6 @@
 class Solution {
     public int minimumEffortPath(int[][] heights) {
-        if (heights.length == 0) {
-            return 0;
-        }
-        
+
         int rows = heights.length;
         int cols = heights[0].length;
         int[][] directions = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
