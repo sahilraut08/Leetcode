@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/sahilraut08/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2058-concatenation-of-array](https://github.com/sahilraut08/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/sahilraut08/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
+| [2165-plates-between-candles](https://github.com/sahilraut08/Leetcode/tree/master/2165-plates-between-candles) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sahilraut08/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sahilraut08/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sahilraut08/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/sahilraut08/Leetcode/tree/master/1304-longest-happy-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/sahilraut08/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/sahilraut08/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2165-plates-between-candles](https://github.com/sahilraut08/Leetcode/tree/master/2165-plates-between-candles) |
 | [2429-design-a-food-rating-system](https://github.com/sahilraut08/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/sahilraut08/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/sahilraut08/Leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/sahilraut08/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/sahilraut08/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/sahilraut08/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2165-plates-between-candles](https://github.com/sahilraut08/Leetcode/tree/master/2165-plates-between-candles) |
 | [3827-implement-router](https://github.com/sahilraut08/Leetcode/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
@@ -932,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/sahilraut08/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1833-find-the-highest-altitude](https://github.com/sahilraut08/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/sahilraut08/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
+| [2165-plates-between-candles](https://github.com/sahilraut08/Leetcode/tree/master/2165-plates-between-candles) |
 ## Quickselect
 |  |
 | ------- |
