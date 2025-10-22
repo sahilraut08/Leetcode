@@ -1,48 +1,79 @@
+class DisjointSet {
+    List<Integer> parent;
+    List<Integer> size;
+
+    public DisjointSet (int n) {
+        parent = new ArrayList<>();
+        size = new ArrayList<>();
+
+        for (int i = 0; i < n; i++) {
+            parent.add(i);
+            size.add(1);
+        }
+    }
+
+    public int findParent (int node) {
+        if (node == parent.get(node)) return node;
+        int ultimateParent = findParent(parent.get(node));
+        parent.set(node, ultimateParent);
+        return ultimateParent;
+    }
+
+    public void union (int u, int v) {
+        int parentU = findParent(u);
+        int parentV = findParent(v);
+
+        int parentUSize = size.get(parentU);
+        int parentVSize = size.get(parentV);
+
+        if (parentUSize < parentVSize) {
+            parent.set(parentU, parentV);
+            size.set(parentV, parentUSize + parentVSize);
+        } else {
+            parent.set(parentV, parentU);
+            size.set(parentU, parentUSize + parentVSize);
+        }
+    }
+}
+
 class Solution {
     public List<List<String>> accountsMerge(List<List<String>> accounts) {
-        Map<String, List<String>> graph = new HashMap<>();
-        Map<String, String> emailToName = new HashMap<>();
+        int n = accounts.size();
 
-        for (List<String> acc : accounts) {
-            String name = acc.get(0);
-            for (int i = 1; i < acc.size(); i++) {
-                String email = acc.get(i);
-                emailToName.put(email, name);
-                graph.putIfAbsent(email, new ArrayList<>());
+        DisjointSet ds = new DisjointSet(n);
+        HashMap<String, Integer> mailToID = new HashMap<>();
 
-                if (i > 1) {
-                    graph.get(acc.get(1)).add(email);
-                    graph.get(email).add(acc.get(1));
+        for (int i = 0; i < n; i++) {
+            for (int j = 1; j < accounts.get(i).size(); j++) {
+                String mail = accounts.get(i).get(j);
+                if (!mailToID.containsKey(mail)) {
+                    mailToID.put(mail, i);
+                } else {
+                    ds.union(i, mailToID.get(mail));
                 }
             }
         }
 
-        Set<String> visited = new HashSet<>();
-        List<List<String>> res = new ArrayList<>();
+        ArrayList<String>[] mergedMail = new ArrayList[n];
+        for (int i = 0; i < n; i++) mergedMail[i] = new ArrayList<>();
 
-        for (String email : graph.keySet()) {
-            if (!visited.contains(email)) {
-                List<String> merged = new ArrayList<>();
-                Queue<String> q = new LinkedList<>();
-                q.offer(email);
-                visited.add(email);
-
-                while (!q.isEmpty()) {
-                    String cur = q.poll();
-                    merged.add(cur);
-                    for (String next : graph.get(cur)) {
-                        if (visited.add(next)) {
-                            q.offer(next);
-                        }
-                    }
-                }
-
-                Collections.sort(merged);
-                merged.add(0, emailToName.get(email));
-                res.add(merged);
-            }
+        for (String mail : mailToID.keySet()) {
+            int node = ds.findParent(mailToID.get(mail));
+            mergedMail[node].add(mail);
         }
 
-        return res;
+        List<List<String>> result = new ArrayList<>();
+        for (int i = 0; i < n; i++) {
+            if (mergedMail[i].size() == 0) continue;
+            Collections.sort(mergedMail[i]);
+            List<String> temp = new ArrayList<>();
+            temp.add(accounts.get(i).get(0));
+            for (String mail : mergedMail[i]) {
+                temp.add(mail);
+            }
+            result.add(temp);
+        }
+
+        return result;
     }
 }
