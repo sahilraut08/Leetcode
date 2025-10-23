@@ -8,8 +8,10 @@ private int smallestDivisorHelper(int[] arr, int div){
     }
 
 public int smallestDivisor(int[] arr, int threshold) {
+    int max = Integer.MIN_VALUE;
+    for(int num: arr) max = Math.max(max, num);
         int low = 1;
-        int high = Arrays.stream(arr).max().getAsInt();
+        int high = max;
         while(low <= high){
             int mid = low + (high - low)/2;
             if(smallestDivisorHelper(arr, mid) <= threshold)
