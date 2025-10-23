@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sahilraut08/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sahilraut08/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/sahilraut08/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0630-course-schedule-iii](https://github.com/sahilraut08/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0636-exclusive-time-of-functions](https://github.com/sahilraut08/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/sahilraut08/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0690-employee-importance](https://github.com/sahilraut08/Leetcode/tree/master/0690-employee-importance) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/sahilraut08/Leetcode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/sahilraut08/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/sahilraut08/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0630-course-schedule-iii](https://github.com/sahilraut08/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0670-maximum-swap](https://github.com/sahilraut08/Leetcode/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/sahilraut08/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/sahilraut08/Leetcode/tree/master/0768-partition-labels) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sahilraut08/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/sahilraut08/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0611-valid-triangle-number](https://github.com/sahilraut08/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0630-course-schedule-iii](https://github.com/sahilraut08/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0721-accounts-merge](https://github.com/sahilraut08/Leetcode/tree/master/0721-accounts-merge) |
 | [0807-custom-sort-string](https://github.com/sahilraut08/Leetcode/tree/master/0807-custom-sort-string) |
 | [0876-hand-of-straights](https://github.com/sahilraut08/Leetcode/tree/master/0876-hand-of-straights) |
@@ -611,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilraut08/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sahilraut08/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sahilraut08/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0630-course-schedule-iii](https://github.com/sahilraut08/Leetcode/tree/master/0630-course-schedule-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sahilraut08/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sahilraut08/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1304-longest-happy-string](https://github.com/sahilraut08/Leetcode/tree/master/1304-longest-happy-string) |
