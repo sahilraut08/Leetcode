@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/sahilraut08/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/sahilraut08/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/sahilraut08/Leetcode/tree/master/2023-design-movie-rental-system) |
+| [2047-find-a-peak-element-ii](https://github.com/sahilraut08/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2058-concatenation-of-array](https://github.com/sahilraut08/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/sahilraut08/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2165-plates-between-candles](https://github.com/sahilraut08/Leetcode/tree/master/2165-plates-between-candles) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/sahilraut08/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/sahilraut08/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/sahilraut08/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2047-find-a-peak-element-ii](https://github.com/sahilraut08/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2165-plates-between-candles](https://github.com/sahilraut08/Leetcode/tree/master/2165-plates-between-candles) |
 | [3827-implement-router](https://github.com/sahilraut08/Leetcode/tree/master/3827-implement-router) |
 ## Divide and Conquer
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/sahilraut08/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/sahilraut08/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1753-path-with-minimum-effort](https://github.com/sahilraut08/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2047-find-a-peak-element-ii](https://github.com/sahilraut08/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sahilraut08/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2737-row-with-maximum-ones](https://github.com/sahilraut08/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sahilraut08/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
