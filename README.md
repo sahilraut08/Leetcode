@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sahilraut08/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/sahilraut08/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sahilraut08/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1522-stone-game-iii](https://github.com/sahilraut08/Leetcode/tree/master/1522-stone-game-iii) |
 | [1539-diagonal-traverse-ii](https://github.com/sahilraut08/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sahilraut08/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/sahilraut08/Leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/sahilraut08/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sahilraut08/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/sahilraut08/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1522-stone-game-iii](https://github.com/sahilraut08/Leetcode/tree/master/1522-stone-game-iii) |
 | [1642-water-bottles](https://github.com/sahilraut08/Leetcode/tree/master/1642-water-bottles) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sahilraut08/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sahilraut08/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1121-partition-array-for-maximum-sum](https://github.com/sahilraut08/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/sahilraut08/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sahilraut08/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1522-stone-game-iii](https://github.com/sahilraut08/Leetcode/tree/master/1522-stone-game-iii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sahilraut08/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sahilraut08/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Greedy
@@ -1047,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/sahilraut08/Leetcode/tree/master/0909-stone-game) |
+| [1522-stone-game-iii](https://github.com/sahilraut08/Leetcode/tree/master/1522-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/sahilraut08/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Line Sweep
 |  |
