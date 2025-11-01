@@ -53,8 +53,9 @@ class LRUCache {
         } else {
             if(map.size() == capacity) {
                 Node tailPrev = tail.prev;
-                removeNode(tailPrev);
                 map.remove(tailPrev.key);
+                removeNode(tailPrev);
+                
             } 
             Node newNode = new Node(key, value);
             addToHead(newNode);
