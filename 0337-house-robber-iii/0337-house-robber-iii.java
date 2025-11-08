@@ -15,20 +15,20 @@
  */
 class Solution {
     public int rob(TreeNode root) {
-        return helper(root, new HashMap<>());
+        int[] result = helper(root);
+        return Math.max(result[0], result[1]);
     }
-    public int helper(TreeNode root, Map<TreeNode, Integer> map) {
-        if(root == null) return 0;
+    public int[] helper(TreeNode root) {
+        if(root == null) return new int[2];
 
-        if(map.containsKey(root)) return map.get(root);
+        int[] left = helper(root.left);
+        int[] right = helper(root.right);
 
-        int ans = root.val;
+        int[] result = new int[2];
 
-        if(root.left != null) ans += helper(root.left.left, map) + helper(root.left.right, map);
-        if(root.right != null) ans += helper(root.right.left, map) + helper(root.right.right, map);
+        result[0] = root.val + left[1] + right[1];
+        result[1] = Math.max(left[0], left[1]) + Math.max(right[0], right[1]);
 
-        map.put(root, Math.max(ans, helper(root.left, map) + helper(root.right, map)));
-
-        return map.get(root);
+        return result;
     }
 }
