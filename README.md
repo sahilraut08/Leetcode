@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3582-find-indices-of-stable-mountains](https://github.com/sahilraut08/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/sahilraut08/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sahilraut08/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3790-fruits-into-baskets-ii](https://github.com/sahilraut08/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/sahilraut08/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/sahilraut08/Leetcode/tree/master/3827-implement-router) |
 ## Hash Table
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/sahilraut08/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2165-plates-between-candles](https://github.com/sahilraut08/Leetcode/tree/master/2165-plates-between-candles) |
 | [2690-house-robber-iv](https://github.com/sahilraut08/Leetcode/tree/master/2690-house-robber-iv) |
+| [3790-fruits-into-baskets-ii](https://github.com/sahilraut08/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/sahilraut08/Leetcode/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
@@ -721,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sahilraut08/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/sahilraut08/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/sahilraut08/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/sahilraut08/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1033,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/sahilraut08/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/sahilraut08/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/sahilraut08/Leetcode/tree/master/3678-design-task-manager) |
+| [3790-fruits-into-baskets-ii](https://github.com/sahilraut08/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/sahilraut08/Leetcode/tree/master/3827-implement-router) |
 ## Hash Function
 |  |
@@ -1086,4 +1090,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/sahilraut08/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sahilraut08/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sahilraut08/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/sahilraut08/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
