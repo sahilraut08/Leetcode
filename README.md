@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-diagonal-traverse-ii](https://github.com/sahilraut08/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sahilraut08/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/sahilraut08/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1706-min-cost-to-connect-all-points](https://github.com/sahilraut08/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/sahilraut08/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/sahilraut08/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1833-find-the-highest-altitude](https://github.com/sahilraut08/Leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -946,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/sahilraut08/Leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/sahilraut08/Leetcode/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/sahilraut08/Leetcode/tree/master/0854-making-a-large-island) |
+| [1706-min-cost-to-connect-all-points](https://github.com/sahilraut08/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/sahilraut08/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Design
 |  |
@@ -989,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/sahilraut08/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1325-path-with-maximum-probability](https://github.com/sahilraut08/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sahilraut08/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1706-min-cost-to-connect-all-points](https://github.com/sahilraut08/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sahilraut08/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
@@ -1128,4 +1131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/sahilraut08/Leetcode/tree/master/0332-reconstruct-itinerary) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/sahilraut08/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
