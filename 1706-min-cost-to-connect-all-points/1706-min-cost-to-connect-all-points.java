@@ -2,7 +2,7 @@ class Solution {
 
     class DSU {
         int[] parent, size;
-        public DSU(int n) {
+        DSU(int n) {
             parent = new int[n];
             size = new int[n];
             for(int i = 0; i < n; i++) {
@@ -10,11 +10,11 @@ class Solution {
                 size[i] = 1;
             }
         }
-        public int find(int x) {
+        int find(int x) {
             if(parent[x] != x) parent[x] = find(parent[x]);
             return parent[x];
         }
-        public void union(int x, int y) {
+        void union(int x, int y) {
             int px = find(x), py = find(y);
             if(px == py) return;
             if(size[px] < size[py]) {
