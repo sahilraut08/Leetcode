@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sahilraut08/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sahilraut08/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/sahilraut08/Leetcode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/sahilraut08/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/sahilraut08/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sahilraut08/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0398-random-pick-index](https://github.com/sahilraut08/Leetcode/tree/master/0398-random-pick-index) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/sahilraut08/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/sahilraut08/Leetcode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sahilraut08/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0299-bulls-and-cows](https://github.com/sahilraut08/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/sahilraut08/Leetcode/tree/master/0344-reverse-string) |
 | [0399-evaluate-division](https://github.com/sahilraut08/Leetcode/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/sahilraut08/Leetcode/tree/master/0402-remove-k-digits) |
@@ -986,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sahilraut08/Leetcode/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/sahilraut08/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/sahilraut08/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sahilraut08/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sahilraut08/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
